@@ -1,0 +1,31 @@
+{
+  "name": "E2e Generated Qhhakuzt",
+  "description": "",
+  "spectralExtends": [],
+  "extends": [
+    "cHJqOjMzNg"
+  ],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {},
+  "extendedStyleguides": [
+    {
+      "id": "cHJqOjMzNg",
+      "name": "Incredible Soft Pants",
+      "slug": "qa-incredible-soft-pants-t0g3j",
+      "workspace": {
+        "slug": "qa-enterprise",
+        "name": "qa-enterprise"
+      },
+      "latestRelease": {
+        "release": 1
+      }
+    }
+  ],
+  "extendedDefault": true
+}
